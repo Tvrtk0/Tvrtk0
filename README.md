@@ -2,7 +2,7 @@
 
 <!-- Profile visits ![visitors](http://visitor-badge.glitch.me/badge?page_id=Tvrtk0.Tvrtk0) -->
 
-<br><br>
+<br>
 
 ## Coding Stats
 
