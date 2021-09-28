@@ -6,13 +6,6 @@
 
 ## Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-<br>
-
 ![Tvrtk0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=tokyonight)
