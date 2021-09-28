@@ -6,7 +6,7 @@
 
 ## Coding Stats
 
-![Tvrtk0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight)
+![Tvrtk0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=tokyonight)
 
