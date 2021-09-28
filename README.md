@@ -51,3 +51,10 @@ Student at Zagreb University of Applied Sciences
 Profile visits ![visitors](http://visitor-badge.glitch.me/badge?page_id=Tvrtk0.Tvrtk0) 
 ![Tvrtk0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tvrtk0&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true&hide_title=true) 
 -->
+
+### :eyes: Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231a1b27&borderColor=%2370a4fc&qColor=%2370a4fc&aColor=%232b7673)
+
+
+
