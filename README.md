@@ -33,8 +33,8 @@ Student at Zagreb University of Applied Sciences
 ### :hourglass: Coding Stats
 
 <div float="left">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=tokyonight&hide=html,css" />
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight&v=2" />
 </div>
 
 <!-- 
