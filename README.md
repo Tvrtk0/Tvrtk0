@@ -3,7 +3,7 @@
 Student at Zagreb University of Applied Sciences  
 
   
-### :gear: Tech Stack
+### :computer: Tech Stack
 <div float="left">
 	<img height="23px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   	<img height="23px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,8 +33,8 @@ Student at Zagreb University of Applied Sciences
 ### :hourglass: Coding Stats
 
 <div float="left">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=tokyonight&hide=html,css" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=algolia&hide=html,css" />
 </div>
 
 <!-- 
@@ -42,9 +42,9 @@ Student at Zagreb University of Applied Sciences
 ![Tvrtk0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight&v=2) 
 -->
 
-### :computer: Github Stats
+### :gear: Github Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tvrtk0&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tvrtk0&theme=algolia)
 
 
 <!-- 
@@ -54,7 +54,7 @@ Profile visits ![visitors](http://visitor-badge.glitch.me/badge?page_id=Tvrtk0.T
 
 ### :eyes: Random Joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231a1b27&borderColor=%2370a4fc&qColor=%2370a4fc&aColor=%232b7673)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23050F2C&borderColor=%2300AEFF&qColor=%2300AEFF&aColor=%232DDE98)
 
 
 
