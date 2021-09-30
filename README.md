@@ -30,14 +30,17 @@ Student at Zagreb University of Applied Sciences
 </div>
 
 
-### :hourglass: Coding Stats
+### :hourglass: Weekly Coding Stats
 
 <div float="left">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=algolia&hide=html,css" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia&hide_title=true" />
 </div>
 
 <!-- 
+Top lang:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=algolia&hide=html,css" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tvrtk0&layout=compact&theme=tokyonight&hide=html,css)
 ![Tvrtk0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=tokyonight&v=2) 
 -->
