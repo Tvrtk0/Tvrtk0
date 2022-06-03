@@ -3,7 +3,8 @@
 -->
 Student at Zagreb University of Applied Sciences  
 
-  
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 ### :computer: Tech Stack
 <div float="left">
 	<img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -15,11 +16,11 @@ Student at Zagreb University of Applied Sciences
   	<img height="25px" src="https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=blue" />
 </div>
 <div float="left">
-	<img height="25px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  	<img height="25px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 	<img height="25px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  	<img height="25px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-	<img height="25px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+	<img height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	<img height="25px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  	<img height="25px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />	
+  	<img height="25px" src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white" />
   	<img height="25px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 </div>
 
