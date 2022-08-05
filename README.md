@@ -1,8 +1,6 @@
 <!-- 
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> 
 -->
-Student at Zagreb University of Applied Sciences  
-
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 ### :computer: Tech Stack
@@ -31,13 +29,14 @@ Student at Zagreb University of Applied Sciences
 	<img height="25px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-
+<!-- 
 ### :hourglass: Weekly Coding Stats
 
 <div float="left">
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia&layout=compact" />
-	<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia&hide_title=true" />-->
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tvrtko&theme=algolia&hide_title=true" />
 </div>
+-->
 
 <!-- 
 Top lang:
