@@ -7,6 +7,7 @@
 
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!--
 ### :computer: Tech Stack
 
 <div float="left">
@@ -21,23 +22,26 @@
   	<img height="28px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 	<img height="28px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   	<img height="28px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  	<!-- <img height="28px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 </div>
+-->
+
 <!--
 <div float="left">
+	<img height="28px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 	<img height="28px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /
   	<img height="28px" src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white" />
 	<img height="28px" src="https://img.shields.io/badge/AWS-252F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 	<img height="28px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 	<img height="28px" src="https://img.shields.io/badge/Railway-13111c?style=for-the-badge&logo=railway&logoColor=white" />
 </div>
- -->
+-->
+<!--
 <div float="left">
 	<img height="28px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img height="28px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
-
+-->
+<!-- 
 ### :gear: Github Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tvrtk0&theme=algolia)
@@ -46,7 +50,7 @@
 ### :eyes: Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23050F2C&borderColor=%2300AEFF&qColor=%2300AEFF&aColor=%232DDE98)
-
+-->
 
 <!-- 
 ### :hourglass: Weekly Coding Stats
